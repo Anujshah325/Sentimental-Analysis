@@ -56,9 +56,10 @@ Streamlit App
 
 vbnet
 Copy code
-Input: "I loved this movie, it was fantastic!"
+Input: "I love this movie, best movie ever.!"
 Output: Positive
 vbnet
 Copy code
-Input: "The film was boring and too long."
+Input: "I hate this movie, worst movie ever."
+
 Output: Negative
